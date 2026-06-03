@@ -1,0 +1,6 @@
+/* Minimal reset. Tailwind CSS is loaded from CDN and will provide all styling utilities. */
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
